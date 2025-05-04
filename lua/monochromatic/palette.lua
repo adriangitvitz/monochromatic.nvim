@@ -35,8 +35,8 @@ return {
     ModeMsg = { fg = "#8a8a8a" },                                    -- Keyword color
     MoreMsg = { fg = "#a1a1a1", bold = true },                       -- Constant color
     NonText = { fg = "#808080", bold = true },                       -- Muted text
-    Normal = { fg = "#a8a8a8", bg = "#080808" },                     -- Text, background
-    NormalFloat = { bg = "#262626", fg = "#a8a8a8" },                -- Surface background, text
+    Normal = { fg = "#a8a8a8", bg = "#090F19" },                     -- Text, background
+    NormalFloat = { bg = "#090F19", fg = "#a8a8a8" },                -- Surface background, text
     Number = { fg = "#767676" },                                     -- Number color
     Operator = { fg = "#a1a1a1" },                                   -- Operator color
     PmenuSel = { bg = "#262626", fg = "#a8a8a8", bold = true },      -- Surface background, text
